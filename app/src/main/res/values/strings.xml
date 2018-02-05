@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Burger House</string>
+    
+    <string-array name="names">
+        <item>Select Burger</item>
+        <item> The Real Aloo Tikki Burger</item>
+        <item>The Spicy Chiken Burger</item>
+        <item>The Maharaja Burger</item>
+        <item>The Spicy Panner Burger</item>
+    </string-array>
+
+</resources>
